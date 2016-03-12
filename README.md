@@ -1,1 +1,3 @@
-# synccloud.mail.common.node
+# @synccloud/config
+
+## Config
